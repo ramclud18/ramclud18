@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src=("https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 #### 🔁 CI/CD & SCM
@@ -57,6 +58,10 @@
 </p>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ramclud18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ramclud18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ramclud18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ⚡ DevOps Philosophy
 
@@ -65,3 +70,4 @@
 while true; do
    Build && Test && Deploy && Monitor
 Done
+---
