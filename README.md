@@ -78,6 +78,25 @@
 
 ### ⚡ DevOps Philosophy
 
+### 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Kubernetes (Helm, Operators)
+  - Infrastructure as Code at scale (Terraform modules)
+
+Building:
+  - CI/CD pipelines with Jenkins & GitHub Actions
+
+Exploring:
+  - GitOps workflows
+  - AiOps 
+
+Open To:
+  - Cloud / DevOps Engineer roles
+  - Infrastructure automation collaborations
+```
+
 ```bash
 # Automate everything that can be automated.
 while true; do
